@@ -1,0 +1,5 @@
+ERROR 1:	"loa " is not a valid word.
+ERROR 2:	"s " is not a valid word.
+ERROR 2:	Missing source register in load or store.
+
+clear/courses/comp412/students/lab1/lab1_ref found 3 errors on 2 lines.

@@ -1,0 +1,11 @@
+ERROR 11:	Missing comma in mult.
+ERROR 12:	Missing '=>' in mult.
+ERROR 13:	Missing comma in mult.
+ERROR 14:	Missing '=>' in mult.
+ERROR 16:	Missing target register in mult.
+ERROR 17:	Missing '=>' in mult.
+ERROR 18:	Missing second source register in mult.
+ERROR 19:	Missing comma in mult.
+ERROR 20:	Missing first source register in mult.
+
+clear/courses/comp412/students/lab1/lab1_ref found 9 errors on 9 lines.

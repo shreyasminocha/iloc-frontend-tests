@@ -1,0 +1,6 @@
+ERROR 1:	Operation starts with an invalid opcode: ','.
+ERROR 2:	Operation starts with an invalid opcode: '=>'.
+ERROR 3:	Operation starts with an invalid opcode: '0'.
+ERROR 4:	Operation starts with an invalid opcode: 'r0'.
+
+clear/courses/comp412/students/lab1/lab1_ref found 4 errors on 4 lines.

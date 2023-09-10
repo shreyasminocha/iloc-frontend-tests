@@ -1,0 +1,11 @@
+ERROR 11:	Missing comma in add.
+ERROR 12:	Missing '=>' in add.
+ERROR 13:	Missing comma in add.
+ERROR 14:	Missing '=>' in add.
+ERROR 16:	Missing target register in add.
+ERROR 17:	Missing '=>' in add.
+ERROR 18:	Missing second source register in add.
+ERROR 19:	Missing comma in add.
+ERROR 20:	Missing first source register in add.
+
+clear/courses/comp412/students/lab1/lab1_ref found 9 errors on 9 lines.

@@ -1,0 +1,11 @@
+ERROR 11:	Missing comma in sub.
+ERROR 12:	Missing '=>' in sub.
+ERROR 13:	Missing comma in sub.
+ERROR 14:	Missing '=>' in sub.
+ERROR 16:	Missing target register in sub.
+ERROR 17:	Missing '=>' in sub.
+ERROR 18:	Missing second source register in sub.
+ERROR 19:	Missing comma in sub.
+ERROR 20:	Missing first source register in sub.
+
+clear/courses/comp412/students/lab1/lab1_ref found 9 errors on 9 lines.

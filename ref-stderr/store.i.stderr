@@ -1,0 +1,9 @@
+ERROR 7:	Missing source register in load or store.
+ERROR 8:	Missing target register in load or store .
+ERROR 10:	Missing '=>' in load or store.
+ERROR 11:	Missing '=>' in load or store.
+ERROR 13:	Missing '=>' in load or store.
+ERROR 15:	Missing source register in load or store.
+ERROR 16:	Missing source register in load or store.
+
+clear/courses/comp412/students/lab1/lab1_ref found 7 errors on 7 lines.

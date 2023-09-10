@@ -1,0 +1,9 @@
+ERROR 1:	"L" is not a valid word.
+ERROR 2:	"L" is not a valid word.
+ERROR 3:	"i" is not a valid word.
+ERROR 3:	Missing source register in load or store.
+ERROR 4:	"O" is not a valid word.
+ERROR 6:	"R" is not a valid word.
+ERROR 6:	Missing target register in load or store .
+
+clear/courses/comp412/students/lab1/lab1_ref found 7 errors on 5 lines.

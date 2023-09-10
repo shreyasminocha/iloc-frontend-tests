@@ -1,0 +1,5 @@
+ERROR 3:	Extra token at end of line "0" (CONST).
+ERROR 4:	Extra token at end of line "r1" (REG).
+ERROR 5:	Extra token at end of line "nop" (NOP).
+
+clear/courses/comp412/students/lab1/lab1_ref found 3 errors on 3 lines.

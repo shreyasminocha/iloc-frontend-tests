@@ -1,0 +1,8 @@
+ERROR 1:	"$" is not a valid word.
+ERROR 2:	"à" is not a valid word.
+ERROR 3:	"ð" is not a valid word.
+ERROR 4:	"st0" is not a valid word.
+ERROR 5:	"." is not a valid word.
+ERROR 5:	Missing constant in output.
+
+clear/courses/comp412/students/lab1/lab1_ref found 6 errors on 5 lines.

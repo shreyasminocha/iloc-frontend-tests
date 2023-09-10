@@ -1,0 +1,8 @@
+ERROR 10:	"/ " is not a valid word.
+ERROR 11:	"/ " is not a valid word.
+ERROR 12:	"/*" is not a valid word.
+ERROR 13:	"/*" is not a valid word.
+ERROR 14:	"*" is not a valid word.
+ERROR 15:	"*" is not a valid word.
+
+clear/courses/comp412/students/lab1/lab1_ref found 6 errors on 6 lines.

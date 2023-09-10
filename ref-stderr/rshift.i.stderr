@@ -1,0 +1,11 @@
+ERROR 11:	Missing comma in rshift.
+ERROR 12:	Missing '=>' in rshift.
+ERROR 13:	Missing '=>' in rshift.
+ERROR 14:	Missing '=>' in rshift.
+ERROR 16:	Missing target register in rshift.
+ERROR 17:	Missing '=>' in rshift.
+ERROR 18:	Missing second source register in rshift.
+ERROR 19:	Missing comma in rshift.
+ERROR 20:	Missing first source register in rshift.
+
+clear/courses/comp412/students/lab1/lab1_ref found 9 errors on 9 lines.

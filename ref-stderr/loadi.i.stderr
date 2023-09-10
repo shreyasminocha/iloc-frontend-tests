@@ -1,0 +1,5 @@
+ERROR 6:	Missing constant in loadI.
+ERROR 7:	Missing constant in loadI.
+ERROR 9:	Missing target register in loadI.
+
+clear/courses/comp412/students/lab1/lab1_ref found 3 errors on 3 lines.
